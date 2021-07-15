@@ -1,0 +1,24 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\Wspeechy 2.0.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\Wspeechy 2.0.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\Wspeechy 2.0.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\Regedit.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\Speak.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\Regedit.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\Regedit.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\Speak.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\Speak.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\Interop.VLELib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\bin\Debug\AxInterop.VLELib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\Wspeechy 2.0.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\Interop.CRQUERYENGINE.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\Interop.CrystalAnalysisCommonControlsLib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\Interop.VLELib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\AxInterop.VLELib.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\Wspeechy 2.0.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\Wspeechy_2._0.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\Wspeechy_2._0.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\Wspeechy 2.0.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\Wspeechy 2.0.csproj.CopyComplete
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\Wspeechy 2.0.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Wspeechy 2.0\Wspeechy 2.0\obj\Debug\Wspeechy 2.0.pdb
